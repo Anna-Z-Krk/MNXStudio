@@ -1,5 +1,17 @@
 # MNXStudio
-Boostrap simple web page.
-Based on course by MMC School. 
+Bootstrap simple onpage.
 
 Link to view it: https://anna-z-krk.github.io/MNXStudio/
+
+##  Sample of flex-box, BEM and Sass  
+
+AIM OF THE PROJECT:
+- practising bootstrap
+- creating responsive single page site
+
+USED IN THIS PROJECT:
+- Visual Studio Code
+- Bootstrap
+- HTML, CSS3, JS
+
+*based on course by MMCSchool 
