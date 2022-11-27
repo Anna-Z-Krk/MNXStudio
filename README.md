@@ -1,9 +1,7 @@
 # MNXStudio
-Bootstrap simple onpage.
+## Bootstrap simple onpage.
 
-Link to view it: https://anna-z-krk.github.io/MNXStudio/
-
-##  Sample of flex-box, BEM and Sass  
+Link to view it: https://anna-z-krk.github.io/MNXStudio/ 
 
 AIM OF THE PROJECT:
 - practising bootstrap
